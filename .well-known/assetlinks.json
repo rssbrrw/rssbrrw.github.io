@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.sfp.app",
+  "sha256_cert_fingerprints": ["9D:C7:45:9C:A5:29:B9:87:E7:75:CB:BA:67:5F:D8:09:9C:27:6D:73:A4:D4:94:6E:36:17:06:2C:40:F5:E2:18"] }
+}]
